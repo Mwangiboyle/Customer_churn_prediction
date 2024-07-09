@@ -1,4 +1,6 @@
-Customer Churn Prediction end to end project
+## Customer Churn Prediction end to end project
+
+
 ![image](https://github.com/Mwangiboyle/Customer_churn_prediction/assets/92526613/ef6ba7cb-a991-4f53-8b4f-458eabb4499b)
 
 
